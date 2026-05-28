@@ -1,0 +1,39 @@
+Rows: 3564, Countries: 132, Regions: 6
+
+Decision class counts:
+Balanced_Maintenance: 2014
+Capacity_Expansion: 539
+Premium_Retention: 467
+Health_Risk_Intervention: 422
+Affordable_Access_Action: 122
+
+Top 2026 risk gap countries:
+Kuwait (Asia): risk_gap=0.8063, participation=0.2805, inactivity=0.6332, obesity=0.4536
+United Arab Emirates (Asia): risk_gap=0.7056, participation=0.2713, inactivity=0.6614, obesity=0.3155
+Panama (North America): risk_gap=0.6902, participation=0.2470, inactivity=0.5764, obesity=0.3608
+Qatar (Asia): risk_gap=0.6129, participation=0.3595, inactivity=0.5348, obesity=0.4376
+Iraq (Asia): risk_gap=0.6038, participation=0.2900, inactivity=0.5202, obesity=0.3736
+Lebanon (Asia): risk_gap=0.5994, participation=0.2975, inactivity=0.5862, obesity=0.3107
+Saudi Arabia (Asia): risk_gap=0.5948, participation=0.3317, inactivity=0.5154, obesity=0.4111
+Portugal (Europe): risk_gap=0.5177, participation=0.2694, inactivity=0.5165, obesity=0.2706
+Costa Rica (North America): risk_gap=0.4860, participation=0.3303, inactivity=0.4966, obesity=0.3197
+Suriname (South America): risk_gap=0.4809, participation=0.2975, inactivity=0.4886, obesity=0.2898
+
+Correlations with insufficient physical activity:
+fitness_participation_rate: -0.318
+participation_change: -0.310
+membership_growth_pct: 0.009
+population_total: 0.023
+number_of_gyms: 0.029
+total_health_club_revenue_usd: 0.037
+gym_memberships: 0.045
+year: 0.065
+revenue_per_member: 0.129
+average_membership_cost_usd: 0.130
+gdp_per_capita_usd: 0.162
+gym_penetration_rate: 0.197
+inactivity_change: 0.271
+urban_population_percentage: 0.458
+obesity_rate: 0.474
+members_per_gym: 0.483
+insufficient_physical_activity_pct: 1.000
